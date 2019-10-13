@@ -2,6 +2,7 @@
 
 ### File tree 
 
+```
 Data:.
 │  README.md
 │  Fig-3B.csv
@@ -23,6 +24,7 @@ Data:.
 │      MM9 PLL in-chamber.csv
 │      MM9 PLL rinsed.csv
 │      SI-Fig-8-fit.txt
+```
 
 #### pH folder
 pH data are stored separately in folder "ph". The first column is the time axis, and the others are mean, standard deviation, and single cell pH values over time. 
